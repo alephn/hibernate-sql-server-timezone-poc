@@ -1,0 +1,12 @@
+# Compiled class file
+*.class
+
+**/target/*
+.vagrant/
+.project
+.classpath
+.settings/*
+*.bak
+**/.settings/*
+maven-eclipse.xml
+*.jar
